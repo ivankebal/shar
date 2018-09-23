@@ -1,0 +1,6 @@
+D:\C#\шар\шар\obj\Debug\шар.csproj.CoreCompileInputs.cache
+D:\C#\шар\шар\bin\Debug\шар.exe.config
+D:\C#\шар\шар\bin\Debug\шар.exe
+D:\C#\шар\шар\bin\Debug\шар.pdb
+D:\C#\шар\шар\obj\Debug\шар.exe
+D:\C#\шар\шар\obj\Debug\шар.pdb
